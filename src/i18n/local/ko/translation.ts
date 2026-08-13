@@ -1,0 +1,57 @@
+export default {
+  siteTitle: "한마음 봉사단",
+  siteSubtitle: "Helping Hands",
+  nav: {
+    about: "단체소개",
+    projects: "사업소개",
+    activities: "봉사활동",
+    apply: "봉사활동 신청",
+    newsletter: "소식지",
+    gallery: "갤러리",
+    more: "More",
+  },
+  dropdownAbout: {
+    greeting: "회장 인사말",
+    history: "연혁",
+  },
+  dropdownApply: {
+    guide: "봉사활동 신청 안내",
+    form: "봉사활동 신청하기",
+  },
+  login: "로그인",
+  volunteerApply: "봉사신청하기",
+  hero: {
+    title: "지구를 푸르게, 이웃을 따뜻하게.",
+    subtitle: "우리의 작은 실천이 세상을 바꿉니다",
+  },
+  intro: {
+    line1: "우리가 사는 인천, 우리가 아름답게",
+    line2: "한마음 봉사단은 환경정화 · 나눔봉사 · 재능기부로",
+    line3: "따뜻한 지역사회를 만들어갑니다.",
+  },
+  cta: {
+    heading: "여러분의 따뜻한 손길을 기다립니다",
+    donateEn: "Donate",
+    donateKo: "기부하기",
+    donateDesc: "한마음으로 만드는 따뜻한 세상\n여러분의 후원은 깨끗한 지역사회와 도움이 필요한 이웃을 위한\n소중한 밑거름이 됩니다.",
+    donateBtn: "Donate",
+    volunteerEn: "Volunteer",
+    volunteerKo: "자원 봉사자 모집",
+    volunteerDesc: "우리가 사는 인천, 우리가 아름답게.\n한마음 봉사단과 함께 깨끗한 환경과 따뜻한 이웃사랑을 실천할\n자원봉사자를 모집합니다.",
+    volunteerBtn: "Volunteer",
+  },
+  news: {
+    author: "현주 김",
+    datePrefix: "",
+    readTimePrefix: "",
+  },
+  footer: {
+    phone: "032-468-5505",
+    address1: "인천시 남동구 구월말로 111",
+    address2: "1층",
+    terms: "Terms & Conditions",
+    privacy: "Privacy Policy",
+    accessibility: "Accessibility Statement",
+    copyright: "© 2035 by Helping Hands",
+  },
+};
